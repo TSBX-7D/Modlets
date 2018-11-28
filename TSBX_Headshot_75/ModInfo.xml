@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml>
+<ModInfo>
+<Name value="Headshot Damage +75%"/>
+<Description value="Adds 75% more headshot damage by player"/>
+<Author value="TSBX"/>
+<Version value="1.0.0"/>
+</ModInfo>
+</xml>
