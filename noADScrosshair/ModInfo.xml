@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="NoADScrosshair" />
+		<Description value="Removes the crosshair from guns while aiming down sight" />
+		<Author value="TSBX" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
