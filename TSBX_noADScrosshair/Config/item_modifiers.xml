@@ -1,0 +1,7 @@
+<configs>
+	
+
+	<set xpath="/item_modifiers/item_modifier[contains(@name,'Scope')]/item_property_overrides[1]/property[@name='CrosshairOnAim']/@value">false</set>
+	<set xpath="/item_modifiers/item_modifier[contains(@name,'Sight')]/item_property_overrides[1]/property[@name='CrosshairOnAim']/@value">false</set>
+</configs>
+

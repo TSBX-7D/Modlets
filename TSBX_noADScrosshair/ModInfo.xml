@@ -2,7 +2,7 @@
 <xml>
 	<ModInfo>
 		<Name value="TSBX_NoADScrosshair" />
-		<Description value="Removes the crosshair from guns while aiming down sight" />
+		<Description value="Removes the UI crosshair from guns while aiming down sight and with scopes" />
 		<Author value="TSBX" />
 		<Version value="1.0.0" />
 	</ModInfo>
