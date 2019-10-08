@@ -1,6 +1,0 @@
-<configs>
-	<set xpath="/items/item[contains(@name,'gun')]/property[@name='CrosshairOnAim']/@value">false</set>
-	<!-- <set xpath="/items/item[contains(@name,'gun -->
-	<set xpath="/items/item[@name='gunBowPrimitive']/property[@name='CrosshairOnAim']/@value">true</set>		
-</configs>
-
