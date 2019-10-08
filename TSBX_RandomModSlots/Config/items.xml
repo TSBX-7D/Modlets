@@ -1,0 +1,4 @@
+<configs>
+    <set xpath="/items/item//passive_effect[@name='ModSlots']/@value">0,5</set>
+    <removeattribute xpath="/items/item//passive_effect[@name='ModSlots']/@tier" />
+</configs>

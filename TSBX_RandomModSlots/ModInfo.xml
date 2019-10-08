@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="TSBX_RandomModSlots" />
+		<Description value="Randomizes the number of Mod Slots available on weapons/tools" />
+		<Author value="TSBX" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,5 @@
+<configs>
+  <insertAfter xpath="//display_entry[@name='DegradationMax']">
+    <display_entry name="ModSlots" title_key="statModSlots"/>
+  </insertAfter>
+</configs>

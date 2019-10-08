@@ -1,0 +1,2 @@
+Key,Source,Context,Changes,English
+statModSlots,UI,Item stat,New,Mod Slots
