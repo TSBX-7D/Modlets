@@ -1,0 +1,6 @@
+<configs>
+<set xpath="/lootcontainers/lootcontainer[@id='55']/item[@name='oldCash']/@count">0,250</set>
+<set xpath="/lootcontainers/lootcontainer[@id='55']/item[@name='oldCash']/@prob">.75</set>
+<remove xpath="/lootcontainers/lootcontainer[@id='55']/item[@name='casinoCoin']"/>
+
+</configs>

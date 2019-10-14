@@ -1,0 +1,4 @@
+<configs>
+	<set xpath="/items/item[@name='oldCash']/property[@name='EconomicValue']/@value">5</set>
+	</configs>
+
