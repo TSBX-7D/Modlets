@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="TSBX_CashOnlyInRegisters" />
+		<Description value="Removes casino coins from cash registers and tweaks old cash probability and value" />
+		<Author value="TSBX" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
