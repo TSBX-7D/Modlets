@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="TSBX_visibleBleeding" />
+		<Description value="Adds a visual effect to zombies when they get the bleeding debuff" />
+		<Author value="TSBX" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
