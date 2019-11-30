@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="TSBX_snowZombieVariety" />
+		<Description value="Adds the normal zombies to snow biomes in addition to the lumberjacks" />
+		<Author value="TSBX" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
