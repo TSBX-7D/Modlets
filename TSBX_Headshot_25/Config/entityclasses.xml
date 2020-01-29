@@ -1,5 +1,0 @@
-<configs>
-
-	<!-- Adds 25% more headshot damage by player -->
-	<set xpath="/entity_classes/entity_class[@name='playerMale']/effect_group/passive_effect[@name='DamageModifier' and contains(@tags, 'head')]/@value">.75</set>
-</configs>
